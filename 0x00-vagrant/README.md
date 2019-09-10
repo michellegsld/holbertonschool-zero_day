@@ -1,0 +1,1 @@
+This is step 1 of the 0x00 vagrant project. We've created the holbertonschool-zero_day repository and now are going to create a file called "0-hello_ubuntu".
