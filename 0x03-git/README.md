@@ -1,0 +1,1 @@
+To learn some tips and how to use Git properly 
