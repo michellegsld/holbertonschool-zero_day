@@ -1,8 +1,9 @@
-This is a part of task 0 of the 0x00.Vagrant project.
-<<<<<<< HEAD
+Holbertonschool-zero_day consists of these projects:
 
-So far we're creating and setting up the Git and Github account.
+0x00-Vagrant
+0x01-Emacs
+0x02-Vi
+0x03-Git
 
-=======
-So far we've created and set up Git and a Github account.
->>>>>>> 32010b6b996d0a64e2834ca0201e0ab29c9dd218
+The purpose was to learn about each of these more in depth, as well as commands, and how to manage each thing.
+We are to learn the basics of what we will be using at Holberton, it's to help us understand how working on projects will be like.
